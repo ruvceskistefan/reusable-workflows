@@ -7,4 +7,6 @@ jobs:
     runs-on: self-hosted
 
     steps:
-    - run: echo "Hello world!"
+    - run: echo "Hello world 1!"
+    - run: echo "Hello world 2!"
+    - run: echo "Hello world 3!"
